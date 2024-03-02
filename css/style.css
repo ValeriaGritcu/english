@@ -1,0 +1,16 @@
+ul {
+    list-style-type: disc;
+}
+
+.one {
+    margin-left: 35px;
+}
+
+.two {
+    margin-left: 20px;
+    list-style: symbols(1);
+}
+
+div {
+    width: 25%;
+}
